@@ -1,0 +1,1 @@
+To repozytorium zawiera gotowe rozwiązanie 
