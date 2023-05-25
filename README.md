@@ -8,12 +8,12 @@ To repozytorium zawiera wynik pracy nad pracą inżynierską "Biometryczna anali
 Wystarczy skopiować i wkleić w odpowiedniej kolejności do zeszytu kolejne bloki:
 
 ## Skopiuj to repozytorium
-```
+```Powershell
 !git clone https://github.com/skrzemien/yolov5-fingerprints
 ```
 
 ## Skopiuj repozytorium razem z wymaganymi bibliotekami
-```
+```Powershell
 !git clone https://github.com/ultralytics/yolov5
 %cd yolov5
 %pip install -qr requirements.txt
