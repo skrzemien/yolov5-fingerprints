@@ -5,7 +5,7 @@ To repozytorium zawiera wynik pracy nad pracą inżynierską "Biometryczna anali
 - mostki,
 - pory,
 
-Wystarczy skopiować i wkleić w odpowiedniej kolejności do zeszytu kolejne bloki:
+Do pustego projektu google colab należy wkleić i uruchomić w następującej kolejności:
 
 ## Skopiuj to repozytorium
 ```
